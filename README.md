@@ -34,10 +34,9 @@ The tracker highlights:
 
 ## Project Structure
 This repository contains the following files and folders:
-- `Dashboard/US Debt Tracker Project.xlsx`: The main Excel file containing the interactive dashboard.
-- `Documentation/Project_Summary.md`: Detailed documentation with methodology and insights.
-- `Data/`: (Optional) Folder to hold raw data files, if needed.
-- `images/`: Folder for any relevant images or screenshots of the dashboard.
+- `Dashboard/US Debt Tracker Project.xlsx`: Excel file containing the interactive dashboard.
+- `Data/`: Raw data files.
+- `images/`: Screenshots of the dashboard.
 
 ## Insights and Analysis
 The tracker provides critical insights, including:
