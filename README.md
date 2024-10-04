@@ -50,7 +50,7 @@ The tracker provides critical insights, including:
 3. Navigate through the dashboard sheets to explore various metrics and insights.
 4. Use the slicers and filters to customize your analysis based on different parameters.
 
-## 🛠️ Future Enhancements
+## Future Enhancements
 Potential enhancements for the tracker include:
 - Integrating external data sources for real-time debt tracking.
 - Adding visualizations for comparisons with other countries' debts.
