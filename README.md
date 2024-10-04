@@ -61,3 +61,16 @@ For questions, feedback, or suggestions, please reach out to me via:
 - **LinkedIn**: <a href="https://linkedin.com" target="_blank">www.linkedin.com/in/khajaanirudhkhan</a>
 - **GitHub**: <a href="https://github.com/Khaja-DataBiz" target="_blank">Khaja-DataBiz</a>
 
+
+# US Debt Tracker Project 📊💰
+
+| **Category**      | **Details**                                           |
+|-------------------|-------------------------------------------------------|
+| **Project Name**  | US Debt Tracker Project                               |
+| **Description**   | An interactive Excel-based tool designed to monitor and analyze the national debt of the United States over time. |
+| **Key Features**  | Interactive dashboard, Dynamic filtering, Visual analytics, Informative insights. |
+| **Technology Used** | Microsoft Excel, Markdown for documentation.        |
+| **File Format**   | `.xlsx`                                               |
+| **Repository Link** | [US Debt Tracker GitHub Repo](#)                    |
+| **Contact Info**  | [LinkedIn](#) \| [GitHub](#)                          |
+
