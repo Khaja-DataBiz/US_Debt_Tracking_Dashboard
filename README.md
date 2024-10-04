@@ -28,7 +28,7 @@ The tracker highlights:
 - **Visual Analytics**: Easy-to-read graphs to illustrate changes in debt levels and per capita debt.
 - **Informative Insights**: Data-driven insights to facilitate discussions about national financial policies.
 
-## Technology Used
+## Tools Used
 - **Microsoft Excel**: Data analysis, visualization, and dashboard design.
 - **Markdown**: Documentation and project description.
 
