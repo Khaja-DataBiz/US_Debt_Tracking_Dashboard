@@ -59,4 +59,4 @@ Potential enhancements for the tracker include:
 ## 👥 Contact Information
 For questions, feedback, or suggestions, please reach out to me via:
 - **LinkedIn**: <a href="https://linkedin.com" target="_blank">www.linkedin.com/in/khajaanirudhkhan</a>
-- **GitHub**: <a href="https://github.com/Khaja-DtaBiz" target="_blank">Your GitHub Profile</a>
+- **GitHub**: <a href="https://github.com/Khaja-DtaBiz" target="_blank">Khaja-DataBiz</a>
